@@ -1,0 +1,161 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+	background-color: #ffa300;
+	display: flex;
+}
+
+.topbar {
+	position: absolute;
+	background: #ff3600;
+	background-position: top;
+	width: 100%;
+	height: 60px;
+}
+
+.entry {
+	width: 100%;
+	margin-right: 30%;
+}
+
+.audio{
+	position: absolute;
+	right: 40%;
+	top: 330px;
+}
+
+.bag { 
+	font-family: Avenir;
+	padding-left: 2%;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 36px;
+	line-height: 66px;
+	color: #FFFFFF;
+	position: relative;
+}
+
+.experience {
+	font-family: Avenir;
+	font-style: normal;
+	top: 0;
+	left: 530px;
+	font-weight: 500;
+	font-size: 36px;
+	line-height: 66px;
+	color: #FFFFFF;
+	position: absolute;
+}
+
+.cheeto {
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: 500;
+	padding-left: 2%;
+	font-size: 36px;
+	line-height: 66px;
+	color: #FFFFFF;
+	position: relative;
+}
+
+.topbag{
+	position: absolute;
+	width: 919px;
+	height: 337px;
+	top: 540px;
+	right: 22%;
+	z-index:1;
+}
+
+.c3 {
+	position: absolute;
+	width: 62px;
+	height: 77px;
+	right: 60%;
+	top: 150px;
+
+}
+
+.c5{
+	position: absolute;
+	width: 99px;
+	height: 64px;
+	right: 80%;
+	top: 450px;
+}
+
+.c1{
+	position: absolute;
+	width: 242px;
+	height: 167.73px;
+	right: 60%;
+	top: 350px;
+	transform: rotate(90deg);
+}
+
+.c7{
+	position: absolute;
+	width: 170px;
+	height: 62px;
+	top: 450px;
+	right: 50%;
+	transform: rotate(35.48deg);
+}
+
+.c9{
+	position: absolute;
+	width: 176px;
+	height: 165px;
+	top: 500px;
+	right: 35%;
+
+}
+
+.c8{
+	position: absolute;
+	width: 107px;
+	height: 70px;
+	right: 30%;
+	top: 400px;
+
+}
+
+.c10{
+	position: absolute;
+	width: 113px;
+	height: 94px;
+	top: 500px;
+	right: 20%;
+}
+
+.c4{
+	position: absolute;
+	width: 211px;
+	height: 98px;
+	top:300px;
+	right: 15%;
+	transform: rotate(38.6deg);
+}
+.c11{
+	position: absolute;
+	width: 62px;
+	height: 77px;
+	right: 30%;
+	top: 150px;
+}
+
+.c6{
+	position: absolute;
+	width: 108px;
+	height: 209px;
+	top: 100px;
+	right: 45%;
+	transform: rotate(-90deg);
+
+}
+
+
+

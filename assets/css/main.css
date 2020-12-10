@@ -1,0 +1,264 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+	background-color: #ffa300;
+	display: flex;
+}
+
+.topbar {
+	position: absolute;
+	background: #ff3600;
+	background-position: top;
+	width: 100%;
+	height: 60px;
+}
+
+.entry {
+	width: 100%;
+	margin-right: 30%;
+}
+
+.bag { 
+	font-family: Avenir;
+	padding-left: 2%;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 36px;
+	line-height: 66px;
+	color: #FFFFFF;
+	position: relative;
+}
+
+.experience {
+	font-family: Avenir;
+	font-style: normal;
+	padding-left: 2%;
+	top: 5%;
+	font-weight: 500;
+	font-size: 36px;
+	line-height: 66px;
+	color: #FFFFFF;
+	position: relative;
+}
+
+.cheeto {
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: 500;
+	padding-left: 2%;
+	font-size: 36px;
+	line-height: 66px;
+	color: #FFFFFF;
+	position: relative;
+}
+
+.cheetobag {
+	background: url(assets/photos/bag.png);
+	width: 670px;
+	height: 830px;
+	position: absolute;
+	left: 550px;
+	bottom: 10px;	
+}
+
+.cheetos {
+	background: url(assets/photos/cheetos.png);
+	position: absolute;
+	left: 72px;
+	bottom: 462px;
+	width: 593px;
+	height: 330px;
+}
+
+.cheetosline {
+	background: url(assets/photos/cheetoline.png);
+	position: absolute;
+	width: 134px;
+	height: 121px;
+	left: 595px;
+	bottom: 470px;
+}
+
+.snack {
+	background: url(assets/photos/snack.png);
+	position: absolute;
+	left: 445px;
+	bottom: 260px;
+	width: 222px;
+	height: 296px;
+	z-index: 1;
+
+}
+.snack:hover {
+	-webkit-transform: scale(1.5);
+	transform: scale(1.5);
+	cursor: pointer;
+}
+.snackline {
+	background: url(assets/photos/snackline.png);
+	position: absolute;
+	width: 121px;
+	height: 48px;
+	bottom: 265px;
+	left: 583px;
+}
+
+.flavored {
+	background: url(assets/photos/snack.png);
+	position: absolute;
+	left: 42px;
+	bottom: 212px;
+	width: 320px;
+	height: 220px;
+	
+}
+
+.flavored:hover {
+	-webkit-transform: scale(1.5);
+	transform: scale(1.5);
+	cursor: pointer;
+}
+
+.flavoredline {
+	background: url(assets/photos/flavoredline.png);
+	position: absolute;
+	width: 563px;
+	height: 68px;
+	left: 395px;
+	bottom: 325px;
+	
+}
+
+.flamin {
+	background: url(assets/photos/flaminhot.png);
+	position: absolute;
+	left: 240px;
+	top: 630px;
+	width: 454.31px;
+	height: 298.67px;
+	transform: rotate(25deg)
+	
+}
+
+.flamin:hover {
+	-webkit-transform: scale(1.5);
+	transform: scale(1.5);
+	cursor: pointer;
+}
+
+.flaminline {
+	background: url(assets/photos/flaminhotline.png);
+	position: absolute;
+	width: 106px;
+	height: 193px;
+	bottom: 164px;
+	left: 695px;
+}
+
+.realcheese {
+	background: url(assets/photos/realcheese.png);
+	position: absolute;
+	width: 320px;
+	height: 186px;
+	right: 118px;
+	top: 90px;
+	
+}
+
+.realcheese:hover {
+	-webkit-transform: scale(1.5);
+	transform: scale(1.5);
+	cursor: pointer;
+}
+
+.realcheeseline {
+	background: url(assets/photos/realcheeseline.png);
+	position: absolute;
+	width: 171px;
+	height: 46px;
+	right: 450px;
+	top: 217px;
+
+}
+
+.crunchy {
+	background: url(assets/photos/crunchy.png);
+	position: absolute;
+	width: 326px;
+	height: 153px;
+	right: 339px;
+	top: 320px;
+	z-index: 1;
+
+}
+
+.crunchy:hover {
+	-webkit-transform: scale(1.5);
+	transform: scale(1.5);
+	cursor: pointer;
+}
+
+.crunchyline {
+	background: url(assets/photos/crunchyline.png);
+	position: absolute;
+	width: 38px;
+	height: 7px;
+	bottom: 470px;
+	right: 670px;
+}
+
+.flames {
+	background: url(assets/photos/flames.png);
+	position: absolute;
+	width: 230.09px;
+	height: 143.41px;
+	right: 45px;
+	top: 305px;
+	transform: rotate(15deg);
+	
+}
+
+.flames:hover {
+	-webkit-transform: scale(1.5);
+	transform: scale(1.5);
+	cursor: pointer;
+}
+
+.flameline {
+	background: url(assets/photos/flameline.png);
+	position: absolute;
+	width: 409px;
+	height: 84px;
+	right: 280px;
+	bottom: 375px;
+}
+
+.cheetoman {
+	background: url(assets/photos/cheetoman.png);
+	position: absolute;
+	width: 655px;
+	height: 426px;
+	right: 0;
+	bottom: 0;
+}
+
+.cheetoman:hover {
+	-webkit-transform: scale(1.4);
+	transform: scale(1.4);
+	cursor: pointer;
+}
+
+.cheetomanline {
+	background: url(assets/photos/cheetomanline.png);
+	position: absolute;
+	width: 114px;
+	height: 45px;
+	bottom: 226px;
+	right: 555px;
+}
+
+
+
